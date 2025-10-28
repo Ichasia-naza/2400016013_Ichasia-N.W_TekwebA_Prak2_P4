@@ -1,0 +1,21 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(135deg,#a8edea, #fed6e3);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #333;
+}
+h1, h2, h3{
+    color: #444;
+}
+button{
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
+input, select{
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
